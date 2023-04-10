@@ -1,0 +1,12 @@
+Air,0,0,0, 
+Dirt,0,0,0,X
+Stone,2,0,0,+
+Boulder,4,0,0,O
+Coal,0,40,1,C
+Iron,0,100,2,I
+Silver,1,160,2,S
+Gold,1,300,2,G
+Saphire,2,500,3,P
+Emerald,2,800,3,E
+Ruby,3,1400,3,R
+Diamond,3,2000,4,D

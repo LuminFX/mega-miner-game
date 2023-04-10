@@ -1,0 +1,31 @@
+drill:
+Stock,0,0
+Sapphire,1,600
+Emerald,2,8000
+Ruby,3,20000
+Diamond,4,50000
+chassis:
+Stock,100,0
+Light,120,500
+Medium,140,2000
+Heavy,180,9000
+Armored,250,15000
+cooler:
+Stock,0,0
+Fan,1,800
+Dual Fan,2,5000
+Cooling System,3,18000
+Climate Control,4,40000
+tank:
+Stock,5,0
+10L,10,400
+20L,20,9000
+30L,30,24000
+40L,40,50000
+storage:
+Stock,20,0
+30 Unit,30,750
+50 Unit,50,4000
+100 Unit,100,15000
+150 Unit,150,40000
+END

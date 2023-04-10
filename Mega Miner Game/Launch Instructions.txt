@@ -1,0 +1,20 @@
+HOW TO COMPILE AND RUN:
+
+Compile: g++ -std=c++17 MatManager.cpp Miner.cpp Map.cpp MegaMiner.cpp UpgradeManager.cpp Material.cpp Upgrade.cpp Game_MegaMiner.cpp -o MegaMinerGame
+Run: ./MegaMinerGame
+
+DEPENDENCIES:
+
+Map.cpp, Map.h, Material.cpp, Material.h, MatManager.cpp, MatManager.h, MegaMiner.cpp, MegaMiner.h, Miner.cpp, Miner.h, Upgrade.cpp, Upgrade.H,
+UpgradeManager.cpp, UpgradeManager.h, materials.txt, and upgrades.txt must be present in order to compile
+
+SUBMISSION INFORMATION:
+
+CSCI Fall 2022 Project 3
+Author: Tyler Schmitz
+Recitation: 306 – Zachary Atkins
+Date: December 1st, 2022
+
+ABOUT THIS PROJECT:
+This project is a recreation of a flash game I played when I was a kid called MegaMiner. A more in depth description of the game can be found in the 5 minute
+video I prepared to go alongside this project: https://www.youtube.com/watch?v=QYFAikeYlk4
