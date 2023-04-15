@@ -1,6 +1,6 @@
 # mega-miner-game
 
-This is my final project for CSCI 1300: Starting computing, which I took during my first semester of Freshman year at CU Boulder. I chose the 'create your own' path for this project, and I elected to recreate [Mega Miner](https://www.silvergames.com/en/mega-miner), a browser game I played a lot when I was younger. With flash being discontinued, it is very difficult to play the original game, so I thought making my own version would be fun and nostalgic.
+This is my final project for CSCI 1300: Starting Computing, which I took during my first semester of Freshman year at CU Boulder. I chose the "create your own" path for this project, and I elected to recreate [Mega Miner](https://www.silvergames.com/en/mega-miner), a browser game I played a lot when I was younger. With flash being discontinued, it is very difficult to play the original game, so I thought making my own version would be fun and nostalgic.
 
 ## Prerequisites
 
