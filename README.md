@@ -9,14 +9,14 @@ There are no prerequisites to download and play, but a compiler is needed to rec
 ## Running the game
 
 1. In the Mega Miner Game folder enter 
-'''
+```
 ./MegaMinerGame
-'''
+```
 
 2. If you would like to recompile first, in the workspace folder enter 
-'''
+```
 g++ -std=c++17 MatManager.cpp Miner.cpp Map.cpp MegaMiner.cpp UpgradeManager.cpp Material.cpp Upgrade.cpp Game_MegaMiner.cpp -o MegaMinerGame
-'''
+```
 Then enter the run command.
 
 ## Playing the game
